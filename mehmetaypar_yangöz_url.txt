@@ -2,5 +2,7 @@ github url:
 https://github.com/mehmetaypar/mehmetaypar_yangoz_url
 
 another jpynviewer
-https://htmtopdf.herokuapp.com/ipynbviewer/temp/23ba0537a016335ef355092567ce1154/mehmetaypar_yang%C3%B6z_indv%20proj.html?t=1553079862597
+https://htmtopdf.herokuapp.com/ipynbviewer/temp/23ba0537a016335ef355092567ce1154/mehmetaypar_yang%C3%B6z_indv%20proj.html?t=1553089515904
+
+
 
